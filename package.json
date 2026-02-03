@@ -1,0 +1,27 @@
+{
+  "name": "game-qa-automation-foundations",
+  "version": "1.0.0",
+  "description": "This repository contains engine-agnostic automated tests focused on core gameplay systems, written from a game QA perspective.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzuRegendorf/game-qa-automation-foundations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UzuRegendorf/game-qa-automation-foundations/issues"
+  },
+  "homepage": "https://github.com/UzuRegendorf/game-qa-automation-foundations#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  }
+}
