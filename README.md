@@ -12,3 +12,7 @@ All systems are tested with a QA-first mindset:
 - Deterministic execution
 - Invalid state prevention
 - Gameplay logic over UI automation
+
+## Extras
+
+No extras added
